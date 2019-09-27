@@ -1,0 +1,25 @@
+html {
+	background-color: #282923;
+	color: white;
+	font-size: 1.2em;
+}
+
+body {
+	margin: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+div {
+	float: left;
+	color: white;
+}
+
+form {
+	float: right;
+}
