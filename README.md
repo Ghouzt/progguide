@@ -1,2 +1,2 @@
 # practice
-Practicing PH
+Practicing PHP
