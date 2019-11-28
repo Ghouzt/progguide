@@ -77,6 +77,12 @@
 					}
 				}
 			}
+			
+			$(function () {
+			   $('.list_header').click(function () {
+			       $(this).next('.hidden_list').toggle(200);
+			   });
+			});
 		  </script>
 	</body>
 </html>
